@@ -1,4 +1,4 @@
 def Woof():
-    return "Woof!"
+    return "Woof"
 
 print (Woof())
